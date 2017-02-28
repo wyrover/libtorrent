@@ -1,3 +1,6 @@
+	* add feature to periodically close files (to make windows clear disk cache)
+	* fix bug in torrent_handle::file_status
+
 1.1.2 release
 
 	* default TOS marking to 0x20
